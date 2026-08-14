@@ -27,7 +27,7 @@ author:
   pronouns         :
   bio              : "PhD Candidate, Finance -- volatility forecasting, market microstructure, media sentiment"
   location         : "Sydney, Australia"
-  employer         : '<a href="https://www.uts.edu.au/">University of Technology Sydney</a>'
+  employer         : '<a href="https://www.uts.edu.au/" style="display:inline;margin:0;padding:0;">University of Technology Sydney</a>'
   uri              :
   email            : "Frances.Liu@uts.edu.au"
 
