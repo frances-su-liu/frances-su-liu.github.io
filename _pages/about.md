@@ -11,6 +11,6 @@ I am a PhD Candidate in Finance at the [University of Technology Sydney](https:/
 
 My research asks when and how different information sets sharpen volatility forecasts, combining high-frequency market microstructure data and media sentiment within a common HAR-based framework.
 
-Before the PhD, I spent seven years as a quantitative analyst in China, working on equity strategy, factor research, and portfolio management. Building on that, I am also interested in extending these methods to high-dimensional portfolio allocation, combining dependence modeling with machine learning.
+Before the PhD, I spent six years as a quantitative analyst in China, working on equity strategy, factor research, and portfolio management. Building on that, I am also interested in extending these methods to high-dimensional portfolio allocation, combining dependence modeling with machine learning.
 
 My research interests are in Financial Econometrics, Volatility Forecasting, High-Frequency Data, Machine Learning in Finance, and Portfolio Management.
