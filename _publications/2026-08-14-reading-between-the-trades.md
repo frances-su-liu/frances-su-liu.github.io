@@ -15,9 +15,7 @@ Extended trading hours concentrate economically significant information (corpora
 
 Applied to all Dow Jones Industrial Average constituents over 2002--2025, even the simplest architecture reduces out-of-sample forecast loss by approximately 11% over the HAR benchmark at the one-day horizon, roughly twice the improvement of the best scalar overnight proxy. Despite equal aggregate gains, the two sessions operate through opposite channels: 64% of the pre-open improvement is recoverable from a single aggregate of within-session price variation, while 81% of the post-close improvement is attributable to tick-sequence structure that no such aggregate captures. Order-flow volume dominates in both sessions; inter-trade timing contributes disproportionately pre-open, consistent with gradual price discovery rather than concentrated event-driven flow. The benefit is stable across market regimes spanning the Global Financial Crisis and the COVID-19 episode.
 
-<!-- TODO: real Keywords list not recorded anywhere yet -- get the actual
-     \keywords{} content from the paper and replace the line below. -->
-**Keywords:** *(not yet added -- placeholder)*
+**Keywords:** Extended trading hours; session encoder; tick data; deep learning; variable-length sequences; realized volatility forecasting.
 
 **JEL classification:** C45, C53, G12, G14
 
