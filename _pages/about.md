@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Frances Liu"
+title: "Frances (Su) Liu"
 author_profile: true
 redirect_from:
   - /about/
