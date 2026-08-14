@@ -1,5 +1,5 @@
 ---
-title: "Tutor, Investment Analysis"
+title: "Tutor, 25503 Investment Analysis"
 collection: teaching
 type: "Undergraduate tutorials"
 permalink: /teaching/investment-analysis
