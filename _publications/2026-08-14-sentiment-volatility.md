@@ -18,7 +18,7 @@ Can media sentiment improve volatility forecasts when price-based dynamics fail?
 
 **JEL classification:** C22, C53, G12, G14
 
-[View on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11081128)
+[View on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11081128) | [ORCID](https://orcid.org/0009-0009-9973-8198)
 
 <!-- NOTE: this is her SSRN author page (lists all her papers), not a
      paper-specific SSRN URL -- still lands the reader on the right
@@ -26,5 +26,4 @@ Can media sentiment improve volatility forecasts when price-based dynamics fail?
      paper-specific URL becomes available later, swap it in here and
      in the paperurl field above; more precise than the author page. -->
 
-<!-- TODO: ORCID and Google Scholar links not added yet -- URLs not
-     sent yet. -->
+<!-- TODO: Google Scholar link not added yet -- URL not sent yet. -->

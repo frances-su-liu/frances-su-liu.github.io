@@ -32,14 +32,14 @@ author:
   email            : "Frances.Liu@uts.edu.au"
 
   # Academic websites
-  # TODO: ORCID and Google Scholar URLs not sent yet -- fill in once she
-  # sends them. Do not leave placeholder/fake URLs here.
+  # TODO: Google Scholar URL not sent yet -- fill in once she sends it.
+  # Do not leave placeholder/fake URLs here.
   academia         :
   arxiv            :
   googlescholar    :
   inspire-hep      :
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0009-9973-8198"
   semantic         :
   ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11081128"
   pubmed           :
