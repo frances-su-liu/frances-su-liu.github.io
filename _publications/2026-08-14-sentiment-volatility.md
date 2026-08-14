@@ -7,6 +7,7 @@ excerpt: 'Media sentiment sharpens realized volatility forecasts in a state-depe
 date: 2026-08-14
 venue: 'Under review, Journal of Applied Econometrics'
 citation: 'Frances (Su) Liu, Vitali Alexeev, and Katja Ignatieva. "When Does Sentiment Predict Volatility?" Under review, Journal of Applied Econometrics.'
+paperurl: 'https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11081128'
 ---
 
 ## Abstract
@@ -17,5 +18,13 @@ Can media sentiment improve volatility forecasts when price-based dynamics fail?
 
 **JEL classification:** C22, C53, G12, G14
 
-<!-- TODO: once ORCID / SSRN / Google Scholar profiles exist, add a paperurl
-     field here linking to the SSRN working-paper version. -->
+[View on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11081128)
+
+<!-- NOTE: this is her SSRN author page (lists all her papers), not a
+     paper-specific SSRN URL -- still lands the reader on the right
+     paper since it's currently her only one there. If a direct
+     paper-specific URL becomes available later, swap it in here and
+     in the paperurl field above; more precise than the author page. -->
+
+<!-- TODO: ORCID and Google Scholar links not added yet -- URLs not
+     sent yet. -->

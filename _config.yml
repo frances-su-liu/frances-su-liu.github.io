@@ -32,9 +32,8 @@ author:
   email            : "Frances.Liu@uts.edu.au"
 
   # Academic websites
-  # TODO: ORCID, SSRN, and Google Scholar profiles don't exist yet -- create
-  # these first (per Vitali's advice), then fill in the real URLs below.
-  # Do not leave placeholder/fake URLs here.
+  # TODO: ORCID and Google Scholar URLs not sent yet -- fill in once she
+  # sends them. Do not leave placeholder/fake URLs here.
   academia         :
   arxiv            :
   googlescholar    :
@@ -42,7 +41,7 @@ author:
   impactstory      :
   orcid            :
   semantic         :
-  ssrn             :
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11081128"
   pubmed           :
   researchgate     :
   scopus           :
