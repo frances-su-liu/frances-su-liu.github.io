@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, University of Technology Sydney (UTS), 2024--2027 (expected)
+* M.S. in Financial Engineering, Stevens Institute of Technology, 2015--2017 (GPA 3.9/4.0)
+* B.Econ in Financial Engineering, Harbin University of Commerce, 2011--2015
 
-Work experience
+Industry Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020--2023: Senior Quantitative Analyst, Webull Financial LLC
+  * Designed and co-developed the team's quantitative research database and strategy backtesting environment
+  * Built factor models for US equities and developed multivariate time-series models for private-fund strategies across Chinese and US equity index universes
+  * Implemented mean-variance portfolio construction for Webull Wealth's advised products
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017--2019: Quantitative Analyst & Consultant, Pricing and Analytics (Shenzhen) Limited
+  * Designed pricing and valuation models for mortgage-backed products including REITs and CLOs; both registered as software copyrights
+  * Applied Black-Scholes, risk-neutral valuation, and martingale pricing methods; implemented Extreme Value Theory and Value at Risk for portfolio tail-risk management
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Volatility modeling (HAR), realized volatility, quantile regression, fractional integration, copulas, extreme value theory
+* Deep learning: sequence encoders (Deep Sets, attention, temporal convolution, GRU) for irregular, variable-length data
+* Python (PyTorch), R, C++, SQL
 
 Publications
 ======
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
