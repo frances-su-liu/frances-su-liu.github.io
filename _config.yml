@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Frances (Su) Liu"
+title                    : "Frances Liu"
 title_separator          : "-"
-name                     : &name "Frances (Su) Liu"
-description              : &description "Frances (Su) Liu -- PhD Candidate in Finance, University of Technology Sydney"
+name                     : &name "Frances Liu"
+description              : &description "Frances Liu -- PhD Candidate in Finance, University of Technology Sydney"
 url                      : https://frances-su-liu.github.io
 baseurl                  : ""
 repository               : "frances-su-liu/frances-su-liu.github.io"
@@ -23,7 +23,7 @@ repository               : "frances-su-liu/frances-su-liu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Frances (Su) Liu"
+  name             : "Frances Liu"
   pronouns         :
   bio              : "PhD Candidate, Finance -- volatility forecasting, market microstructure, media sentiment"
   location         : "Sydney, Australia"
