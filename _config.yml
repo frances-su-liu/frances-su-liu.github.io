@@ -22,7 +22,7 @@ repository               : "frances-su-liu/frances-su-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Frances (Su) Liu"
   pronouns         :
   bio              : "PhD Candidate, Finance -- volatility forecasting, market microstructure, media sentiment"
@@ -59,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
