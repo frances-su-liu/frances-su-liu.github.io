@@ -32,11 +32,10 @@ author:
   email            : "Frances.Liu@uts.edu.au"
 
   # Academic websites
-  # TODO: Google Scholar URL not sent yet -- fill in once she sends it.
   # Do not leave placeholder/fake URLs here.
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=0omErrcAAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
   orcid            : "https://orcid.org/0009-0009-9973-8198"
