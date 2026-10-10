@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Finance at the [University of Technology Sydney](https://www.uts.edu.au/about/faculties/business/research/finance-phd/su-frances-liu), supervised by Assoc. Prof. [Vitali Alexeev](https://profiles.uts.edu.au/Vitali.Alexeev) (UTS) and Assoc. Prof. [Katja Ignatieva](https://www.unsw.edu.au/staff/katja-ignatieva) (UNSW).
+I am a PhD Candidate in Finance at the [University of Technology Sydney](https://www.uts.edu.au/about/faculties/business/research/finance-phd/su-frances-liu), supervised by Assoc. Prof. [Vitali Alexeev](https://profiles.uts.edu.au/Vitali.Alexeev) (UTS), Assoc. Prof. [Katja Ignatieva](https://www.unsw.edu.au/staff/katja-ignatieva) (UNSW) and Prof. [Adam Clements](https://www.qut.edu.au/about/our-people/academic-profiles/a.clements) (QUT).
 
 My research asks when and how different information sets sharpen volatility forecasts, combining high-frequency market microstructure data and media sentiment within a common HAR-based framework.
 
