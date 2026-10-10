@@ -9,8 +9,8 @@ redirect_from:
 
 I am a PhD Candidate in Finance at the [University of Technology Sydney](https://www.uts.edu.au/about/faculties/business/research/finance-phd/su-frances-liu), supervised by Assoc. Prof. [Vitali Alexeev](https://profiles.uts.edu.au/Vitali.Alexeev) (UTS), Assoc. Prof. [Katja Ignatieva](https://www.unsw.edu.au/staff/katja-ignatieva) (UNSW) and Prof. [Adam Clements](https://www.qut.edu.au/about/our-people/academic-profiles/a.clements) (QUT).
 
-My research asks when and how different information sets sharpen volatility forecasts, combining high-frequency market microstructure data and media sentiment within a common HAR-based framework.
+My research looks for information that standard financial models miss, and uses machine learning and econometrics to extract it. My thesis applies this to volatility forecasting with two sources: media sentiment, and the tick-level record of trading before the open and after the close. I study when richer information and more flexible models improve forecasts, and how those gains vary across market states.
 
-Before the PhD, I spent six years as a quantitative analyst in China, working on equity strategy, factor research, and portfolio management. Building on that, I am also interested in extending these methods to high-dimensional portfolio allocation, combining dependence modeling with machine learning.
+Before the PhD, I spent six years as a quantitative analyst in China, working on equity strategy, factor research, and portfolio management. Building on that, I am extending this work toward high-dimensional portfolio allocation and empirical asset pricing.
 
-My research interests are in Financial Econometrics, Volatility Forecasting, High-Frequency Data, Machine Learning in Finance, and Portfolio Management.
+My research interests are financial machine learning, financial econometrics and forecasting, high-frequency and alternative data, and portfolio construction and risk modeling.
