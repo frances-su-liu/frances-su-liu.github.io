@@ -19,4 +19,4 @@ Applied to all Dow Jones Industrial Average constituents over 2002--2025, even t
 
 **JEL classification:** C45, C53, G12, G14
 
-*Draft available on request -- not yet posted publicly.*
+*Draft available on request. Not yet posted publicly.*

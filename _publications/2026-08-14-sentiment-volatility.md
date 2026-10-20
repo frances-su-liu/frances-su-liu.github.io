@@ -3,7 +3,7 @@ title: "When Does Sentiment Predict Volatility?"
 collection: publications
 category: manuscripts
 permalink: /publication/when-does-sentiment-predict-volatility
-excerpt: 'Media sentiment sharpens realized volatility forecasts in a state-dependent way -- most informative precisely when price-based models are least reliable.'
+excerpt: 'Media sentiment improves realized volatility forecasts mainly in certain market states. It is most informative when price-based models are least reliable.'
 date: 2026-08-14
 venue: 'Working paper'
 citation: 'Frances (Su) Liu, Vitali Alexeev, and Katja Ignatieva. "When Does Sentiment Predict Volatility?" Working paper.'
