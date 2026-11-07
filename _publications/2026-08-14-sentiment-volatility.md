@@ -3,19 +3,18 @@ title: "When Does Sentiment Predict Volatility?"
 collection: publications
 category: manuscripts
 permalink: /publication/when-does-sentiment-predict-volatility
-excerpt: 'Media sentiment improves realized volatility forecasts mainly in certain market states. It is most informative when price-based models are least reliable.'
+excerpt: 'Media predictors from a two-stage principal-component design raise in-sample fit in the upper tail of volatility, but the gains do not carry into forecasts once the state must be known in advance.'
 date: 2026-08-14
 venue: 'Working paper'
 citation: 'Frances (Su) Liu, Vitali Alexeev, and Katja Ignatieva. "When Does Sentiment Predict Volatility?" Working paper.'
-link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7281899'
 ---
 
 ## Abstract
 
-Can media sentiment improve volatility forecasts when price-based dynamics fail? We study this question using daily realised volatility for DJIA stocks and media-based sentiment measures from the Thomson Reuters MarketPsych Indices. Augmenting standard HAR models with sentiment yields only modest average improvements, consistent with prior literature. However, this average masks strong state dependence. We show that sentiment becomes materially more informative in the upper tail of the volatility distribution and, more importantly, during periods when volatility persistence weakens. Using a fractional integration framework to measure persistence, we find that sentiment-based predictors deliver their largest gains precisely when lagged volatility becomes less informative. Out-of-sample, these gains are concentrated in regimes characterised jointly by high volatility and low persistence. Our findings suggest that media sentiment does not provide a generic forecasting enhancement, but instead supplies forward-looking narrative information when standard price-based volatility models are least reliable.
+Does media sentiment improve realized volatility forecasts, and if so, when? We construct media-based predictors in four families (direction, salience, instability and cross-channel disagreement) from firm-level news and social-media sentiment and attention indices, compress them by principal components, and add them to HAR models of daily realized volatility for DJIA constituents over nineteen years. In sample, the predictors raise conditional-quantile fit in the upper tail, most for the least persistent stocks. Out of sample, no augmented model robustly beats a daily re-estimated HAR benchmark in any state identifiable at the forecast origin. A regime-conditional evaluation that sorts forecast errors by the realized volatility of the target day shows gains where high volatility meets low persistence; we show that selecting on the outcome produces this pattern by rewarding any forecast shifted towards the realized surprise. A pre-specified forecast combination recovers a small gain in one real-time state.
 
-**Keywords:** Media sentiment; Volatility forecasting; Realised volatility; Volatility persistence; State-dependent predictability; HAR model.
+**Keywords:** Media sentiment; Volatility forecasting; Realized volatility; Volatility persistence; State-dependent predictability; HAR model; Forecast evaluation.
 
-**JEL classification:** C22, C53, G12, G14
+**JEL classification:** C22, C52, C53, G14, G12
 
-[View on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7281899)
+[Earlier version on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7281899)
