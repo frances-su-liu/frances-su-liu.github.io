@@ -1,12 +1,12 @@
 ---
-title: "When Does Sentiment Predict Volatility?"
+title: "When Does Sentiment Predict Volatility? A Negative Result and a Caution on Regime-Conditional Forecast Evaluation"
 collection: publications
 category: manuscripts
 permalink: /publication/when-does-sentiment-predict-volatility
 excerpt: 'Media predictors from a two-stage principal-component design raise in-sample fit in the upper tail of volatility, but the gains do not carry into forecasts once the state must be known in advance.'
 date: 2026-08-14
 venue: 'Working paper'
-citation: 'Frances (Su) Liu, Vitali Alexeev, and Katja Ignatieva. "When Does Sentiment Predict Volatility?" Working paper.'
+citation: 'Frances (Su) Liu, Vitali Alexeev, and Katja Ignatieva. "When Does Sentiment Predict Volatility? A Negative Result and a Caution on Regime-Conditional Forecast Evaluation." Working paper, SSRN 7281899.'
 ---
 
 ## Abstract
@@ -17,4 +17,4 @@ Does media sentiment improve realized volatility forecasts, and if so, when? We 
 
 **JEL classification:** C22, C52, C53, G14, G12
 
-[Earlier version on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7281899)
+[Download from SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7281899) (version of 6 November 2026)
