@@ -1,12 +1,12 @@
 ---
-title: "Reading Between the Trades: Neural Encoding Extended-Hours Tick Sequences for Volatility Forecasting"
+title: "Reading Between the Trades: Learned Embeddings of Extended-Hours Trading and Volatility Forecasting"
 collection: publications
 category: manuscripts
 permalink: /publication/reading-between-the-trades
 excerpt: 'Reads each extended-hours session as an irregularly spaced trade stream, using a set encoder layered as a correction on a fixed HAR benchmark, validated first in simulation.'
 date: 2026-08-14
 venue: 'Working paper'
-citation: 'Frances (Su) Liu, Vitali Alexeev, Adam Clements, and Katja Ignatieva. "Reading Between the Trades: Neural Encoding Extended-Hours Tick Sequences for Volatility Forecasting." Working paper.'
+citation: 'Frances (Su) Liu, Vitali Alexeev, Adam Clements, and Katja Ignatieva. "Reading Between the Trades: Learned Embeddings of Extended-Hours Trading and Volatility Forecasting." Working paper.'
 ---
 
 ## Abstract
